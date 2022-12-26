@@ -1,5 +1,5 @@
 
-# Mata-srv-Firewall(https://github.com/0xinfection/awesome-waf)
+# Mata-srv-Firewall
 > Mata satu or Mata srv is an open source attack detection project, otherwise known as firewall ips, released in 2022. 🔥
 >
 > __Foreword:__ This was originally my own collection on WAFs. I am open-sourcing it in the hope that it will be useful for pentesters and researchers out there. You might want to keep this repo on a watch, since it will be updated regularly. "The community just learns from each other." __#SharingisCaring__
